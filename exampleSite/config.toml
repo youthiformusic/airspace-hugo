@@ -80,6 +80,15 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 2
+[[menu.main]]
+hasChildern = true
+name = "About Us"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "About YMA"
+Parent = "About US"
+weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "#"
