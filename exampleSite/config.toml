@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "contactus@youthformusic.com"
 google_analitycs_id = ""
 location = ""
-logo = "images/youth-music-association-logo_1_white-01.png"
+logo = "images/youth-music-association-logo_1.png"
 mobile = "+962 7 7014 3406"
 multi_author = false
 [params.gmap]
