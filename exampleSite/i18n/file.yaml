@@ -4,7 +4,7 @@
 - id: phone
   translation: Phone
 - id: email
-  translation: Email
+  translation: البريد الإلكتروني
 - id: location
   translation: Location
 - id: buy_now
