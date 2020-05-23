@@ -83,7 +83,7 @@ email = "contactus@youthformusic.com"
 google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "+962 7 7014 3406"
 multi_author = false
 [params.gmap]
 enable = true
@@ -120,6 +120,12 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+[[params.social]]
+icon = ""
+link = ""
+[[params.social]]
+icon = "ion-social-instagram-outline"
+link = ""
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "https://www.facebook.com/Youthformusic/"
