@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/cello-orchester.jpg
   title: Youth for Music Association
-  content: ''
+  content: Some text here.
   button:
     enable: false
     label: Discover Our Project
