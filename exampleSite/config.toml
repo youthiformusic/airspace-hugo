@@ -7,18 +7,25 @@ theme = "airspace-hugo"
 title = "Youth For Music Association"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "English"
 weight = 1
+[Languages.ar]
+contentDir = "content/arabic"
+copyright = "Copyright &copy; 2020 All Rights Reserved"
+home = "Accueil"
+languageCode = "ar-ar"
+languageName = "Arabic"
+weight = 2
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = 3
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
