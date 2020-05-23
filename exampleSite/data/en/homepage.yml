@@ -26,19 +26,18 @@ portfolio:
   enable: true
   bg_image: images/whatsapp-image-2020-05-24-at-01-06-46.jpeg
   title: Our Projects
-  content: '<div style="background-color: #555">Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Morbi et mauris viverra, venenatis nulla vel, venenatis justo.
-    Praesent auctor erat et consectetur tempus. In eget interdum lorem, ac maximus
-    eros. Donec placerat tincidunt rutrum. In id tortor ac augue porttitor dapibus
-    nec id velit. Etiam sit amet molestie nulla, eu euismod mauris. Nunc et ipsum
-    nec sapien varius sollicitudin sed id lorem. Integer id libero commodo turpis
-    tempor ullamcorper iaculis eget dui. Sed a ligula vel ipsum iaculis laoreet id
-    sed odio. Nam purus orci, vestibulum eu interdum quis, vulputate sit amet neque.
-    Nullam pretium mi dui, eget ultrices mi dapibus a. Praesent eleifend turpis vel
-    elit laoreet, ut ornare magna cursus. Pellentesque semper, nibh sodales pulvinar
-    eleifend, ex erat tincidunt lacus, ut accumsan tortor ante nec diam. Suspendisse
-    tincidunt sapien nec interdum interdum. Etiam a diam libero. Nullam non felis
-    eget mi finibus eleifend.</div>'
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauris
+    viverra, venenatis nulla vel, venenatis justo. Praesent auctor erat et consectetur
+    tempus. In eget interdum lorem, ac maximus eros. Donec placerat tincidunt rutrum.
+    In id tortor ac augue porttitor dapibus nec id velit. Etiam sit amet molestie
+    nulla, eu euismod mauris. Nunc et ipsum nec sapien varius sollicitudin sed id
+    lorem. Integer id libero commodo turpis tempor ullamcorper iaculis eget dui. Sed
+    a ligula vel ipsum iaculis laoreet id sed odio. Nam purus orci, vestibulum eu
+    interdum quis, vulputate sit amet neque. Nullam pretium mi dui, eget ultrices
+    mi dapibus a. Praesent eleifend turpis vel elit laoreet, ut ornare magna cursus.
+    Pellentesque semper, nibh sodales pulvinar eleifend, ex erat tincidunt lacus,
+    ut accumsan tortor ante nec diam. Suspendisse tincidunt sapien nec interdum interdum.
+    Etiam a diam libero. Nullam non felis eget mi finibus eleifend.
   button:
     enable: true
     label: View our projects
