@@ -25,18 +25,22 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Our Projects
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauris
+    viverra, venenatis nulla vel, venenatis justo. Praesent auctor erat et consectetur
+    tempus. In eget interdum lorem, ac maximus eros. Donec placerat tincidunt rutrum.
+    In id tortor ac augue porttitor dapibus nec id velit. Etiam sit amet molestie
+    nulla, eu euismod mauris. Nunc et ipsum nec sapien varius sollicitudin sed id
+    lorem. Integer id libero commodo turpis tempor ullamcorper iaculis eget dui. Sed
+    a ligula vel ipsum iaculis laoreet id sed odio. Nam purus orci, vestibulum eu
+    interdum quis, vulputate sit amet neque. Nullam pretium mi dui, eget ultrices
+    mi dapibus a. Praesent eleifend turpis vel elit laoreet, ut ornare magna cursus.
+    Pellentesque semper, nibh sodales pulvinar eleifend, ex erat tincidunt lacus,
+    ut accumsan tortor ante nec diam. Suspendisse tincidunt sapien nec interdum interdum.
+    Etiam a diam libero. Nullam non felis eget mi finibus eleifend.
   button:
     enable: true
-    label: View Works
+    label: View our projects
     link: project
 service:
   enable: false
