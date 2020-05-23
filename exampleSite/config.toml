@@ -5,6 +5,13 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "Youth For Music Association"
+[Languages.ar]
+contentDir = "content/arabic"
+copyright = "Copyright &copy; 2020 All Rights Reserved"
+home = "الصفحة الرئيسية"
+languageCode = "ar-ar"
+languageName = "Arabic"
+weight = 2
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
@@ -12,13 +19,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "English"
 weight = 1
-[Languages.ar]
-contentDir = "content/arabic"
-copyright = "Copyright &copy; 2020 All Rights Reserved"
-home = "Accueil"
-languageCode = "ar-ar"
-languageName = "Arabic"
-weight = 2
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
