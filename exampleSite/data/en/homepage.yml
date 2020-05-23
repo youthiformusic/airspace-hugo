@@ -19,6 +19,9 @@ about:
     strategic projects, initiatives, and activities, in addition to collaborations
     with other organizations and musicians within the region and beyond.
   image: images/wrapper-img.png
+  button:
+    label: Read More
+    enable: true
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
