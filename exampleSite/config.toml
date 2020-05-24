@@ -155,5 +155,5 @@ link = "https://www.facebook.com/Youthformusic/"
 icon = "ion-social-instagram-outline"
 link = "https://instagram.com/youthformusic"
 [[params.social]]
-icon = "ion-ios-mail"
+icon = "ion-ios-email"
 link = "mailto:contactus@youthformusic.com"
