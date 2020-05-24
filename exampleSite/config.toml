@@ -17,7 +17,7 @@ weight = 2
 #[[languages.ar.menu.main]]
 #URL = "faq"
 #name = "FAQ"
-#parent = "Pages"
+#parent = ""
 #weight = 2
 #[[languages.ar.menu.main]]
 #URL = "pricing"
@@ -121,10 +121,10 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 5
-[[languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
+#[[languages.en.menu.main]]
+#hasChildren = true
+#name = "Pages"
+#weight = 6
 [[languages.en.menu.main]]
 URL = "contact"
 name = "Contact Us"
