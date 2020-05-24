@@ -14,16 +14,16 @@ home = "الصفحة الرئيسية"
 languageCode = "ar-ar"
 languageName = "Arabic"
 weight = 2
-[[languages.ar.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 2
-[[languages.ar.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-weight = 1
+#[[languages.ar.menu.main]]
+#URL = "faq"
+#name = "FAQ"
+#parent = "Pages"
+#weight = 2
+#[[languages.ar.menu.main]]
+#URL = "pricing"
+#name = "Pricing"
+#Parent = "Pages"
+#weight = 1
 [[languages.ar.menu.main]]
 hasChildren = true
 name = "معلومات عنا"
@@ -59,10 +59,10 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 5
-[[languages.ar.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
+#[[languages.ar.menu.main]]
+#hasChildren = true
+#name = "Pages"
+#weight = 6
 [[languages.ar.menu.main]]
 URL = "contact"
 name = "تواصلوا معنا"
@@ -76,20 +76,20 @@ home = "Home"
 languageCode = "en-us"
 languageName = "English"
 weight = 1
-[[languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 2
-[[languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-weight = 1
-[[languages.en.menu.main]]
-hasChildren = true
-name = "About Us"
-weight = 1
+#[[languages.en.menu.main]]
+#URL = "faq"
+#name = "FAQ"
+#parent = "Pages"
+#weight = 2
+#[[languages.en.menu.main]]
+#URL = "pricing"
+#name = "Pricing"
+#parent = "Pages"
+#weight = 1
+#[[languages.en.menu.main]]
+#hasChildren = true
+#name = "About Us"
+#weight = 1
 [[languages.en.menu.main]]
 Parent = "About Us"
 URL = "#"
