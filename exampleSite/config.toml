@@ -100,23 +100,24 @@ Parent = "About Us"
 URL = "about"
 name = "Founding Members"
 weight = 2
+#[[languages.en.menu.main]]
+#hasChildren = true
+#name = "Projects"
+#weight = 2
 [[languages.en.menu.main]]
-hasChildren = true
-name = "Projects"
-weight = 2
-[[languages.en.menu.main]]
-Parent = "Projects"
+#Parent = "Projects"
 URL = "#"
 name = "Jordan Youth Orchestra"
-weight = 1
-[[languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[languages.en.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
+#weight = 1
+weight = 2
+#[[languages.en.menu.main]]
+#URL = "project"
+#name = "Project"
+#weight = 3
+#[[languages.en.menu.main]]
+#URL = "service"
+#name = "Service"
+#weight = 4
 [[languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
