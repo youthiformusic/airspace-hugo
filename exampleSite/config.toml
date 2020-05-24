@@ -102,7 +102,7 @@ weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 9
 [params]
 author = "Themefisher"
 contact_form_action = "#"
