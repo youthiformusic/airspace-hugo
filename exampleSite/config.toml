@@ -61,7 +61,7 @@ name = "Pricing"
 parent = "Pages"
 weight = 1
 [[menu.main]]
-hasChildren = True
+hasChildren = true
 name = "About Us"
 weight = 1
 [[menu.main]]
