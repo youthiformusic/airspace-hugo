@@ -2,31 +2,29 @@
 about:
   enable: true
   image: images/86776594_173268084125095_7616308008993161216_n.jpg
-  title: About Us
-  content: "Based in Jordan, Youth for Music Association was passionately established
-    as a go-to hub for budding youth musicians, to meet the need and demand for an
-    inclusive platform that’s dedicated to their development. As such, we’re committed
-    to encourage youth musicians’ continuity and growth on the long run through various
-    strategic projects, initiatives, and activities, in addition to collaborations
-    with other organizations and musicians within the region and beyond.\n\nAs an
-    all-round Association, we aim to enable youth musicians through numerous plans
-    and efforts, which ultimately extend an engaged role for them in the spread of
-    culture and music within the society at large. Such as, but not limited to: \n1.
-    Workshops and masterclasses by expert local and international musicians and teachers.\n2.
-    Facilitating regular rehearsal and performance spaces, while endorsing the discipline
-    benefits of both. \n3. Organizing various group projects and concerts (e.g. choirs,
-    orchestras, oriental ensembles & other combos), including assembling an independent
-    Youth Orchestra in Jordan.\n4. Networking with like-minded regional and international
-    organizations for potential collaborations, exchange opportunities, and other
-    broad progress outlooks for youth musicians. \n5. Exposing and familiarizing youth
-    to all styles of music programming and repertoire. \n\nThis is just the beginning;
-    as an Association that is open to all styles of music, we look forward to adding
-    more and more layers in achieving a far-reaching vision of youth music empowerment.
-    \ \n\n## Our Vision \nTo be a pillar in the cultural and musical development of
-    youth musicians in Jordan and the Arab world\n\n## Our Mission\nTo build a strong
-    reliable platform that enhances the potential of local and regional youth musicians
-    through a series of musical development projects, investing in quality training,
-    and collaborating with world-class music institutions.\n"
+  title: 'عن جمعية الشباب للموسيقى '
+  content: "لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود
+    تيمبور\n\nأنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس
+    نوستريد\n\nأكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات
+    . ديواس\n\nأيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم
+    دولار أيو فيجايت\n\nنيولا باراياتيور. أيكسسيبتيور ساينت أوككايكات كيوبايداتات
+    نون بروايدينت ,سيونت ان كيولبا\n\nكيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم.\"\n\n\"سيت
+    يتبيرسبايكياتيس يوندي أومنيس أستي ناتيس أيررور سيت فوليبتاتيم أكيسأنتييوم\n\nدولاريمكيو
+    لايودانتيوم,توتام ريم أبيرأم,أيكيو أبسا كيواي أب أللو أنفينتوري فيرأتاتيس ايت\n\nكياسي
+    أرشيتيكتو بيتاي فيتاي ديكاتا سيونت أكسبليكابو. نيمو أنيم أبسام فوليوباتاتيم كيواي\n\nفوليوبتاس
+    سايت أسبيرناتشر أيوت أودايت أيوت فيوجايت, سيد كيواي كونسيكيونتشر ماجناي\n\nدولارس
+    أيوس كيواي راتاشن فوليوبتاتيم سيكيواي نيسكايونت. نيكيو بوررو كيوايسكيوم\n\nايست,كيواي
+    دولوريم ايبسيوم كيوا دولار سايت أميت, كونسيكتيتيور,أديبايسكاي فيلايت, سيد\n\nكيواي
+    نون نيومكيوام ايايوس موداي تيمبورا انكايديونت يوت لابوري أيت دولار ماجنام\n\nألايكيوام
+    كيوايرات فوليوبتاتيم. يوت اينايم أد مينيما فينيام, كيواس نوستريوم أكسيركايتاشيم\n\nيلامكوربوريس
+    سيوسكايبيت لابورايوسام, نايساي يوت ألايكيوايد أكس أيا كوموداي\n\nكونسيكيواتشر؟
+    كيوايس أيوتيم فيل أيوم أيوري ريبريهينديرايت كيواي ان إيا فوليوبتاتي\n\nفيلايت
+    ايسسي كيوم نايهايل موليستايا كونسيكيواتيو,فيلايليوم كيواي دولوريم أيوم فيوجايات
+    كيو\n\nفوليوبتاس نيولا باراياتيور؟\"\n\n## رؤيتنا \nTo be a pillar in the cultural
+    and musical development of youth musicians in Jordan and the Arab world\n\n##
+    مهمتنا\nTo build a strong reliable platform that enhances the potential of local
+    and regional youth musicians through a series of musical development projects,
+    investing in quality training, and collaborating with world-class music institutions.\n"
   button:
     enable: false
     label: Download Company Profile
