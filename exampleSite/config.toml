@@ -40,7 +40,7 @@ name = "المؤسسون"
 weight = 2
 [[languages.ar.menu.main]]
 hasChildren = true
-name = "Projects"
+name = "المشاريع"
 weight = 2
 [[languages.ar.menu.main]]
 Parent = "المشاريع"
