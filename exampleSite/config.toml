@@ -80,7 +80,7 @@ hasChildren = true
 weight = 2
 [[menu.main]]
 URL = "#"
-name = "Jordan Youth<br>Orchestra"
+name = "Jordan Youth <br/> Orchestra"
 Parent = "Projects"
 weight = 1
 [[menu.main]]
