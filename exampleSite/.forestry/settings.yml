@@ -145,6 +145,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: exampleSite/data/ar
+  label: Data (ar)
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/i18n
   label: i18n
   create: documents
