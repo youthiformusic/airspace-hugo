@@ -47,7 +47,7 @@ portfolio:
     كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم.
   button:
     enable: true
-    label: View our projects
+    label: 'المزيد عن مشاريعنا '
     link: project
 service:
   enable: false
