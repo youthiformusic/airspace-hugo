@@ -13,7 +13,7 @@ copyright = "Copyright &copy; 2020 All Rights Reserved"
 home = "الصفحة الرئيسية"
 languageCode = "ar-ar"
 languageName = "Arabic"
-weight = 2
+weight = 1
 #[[languages.ar.menu.main]]
 #URL = "faq"
 #name = "FAQ"
@@ -75,7 +75,7 @@ copyright = "Copyright &copy; 2020 All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "English"
-weight = 1
+weight = 0
 #[[languages.en.menu.main]]
 #URL = "faq"
 #name = "FAQ"
