@@ -100,16 +100,16 @@ Parent = "About Us"
 URL = "about"
 name = "Founding Members"
 weight = 2
-#[[languages.en.menu.main]]
-#hasChildren = true
-#name = "Projects"
-#weight = 2
 [[languages.en.menu.main]]
-#Parent = "Projects"
+hasChildren = true
+name = "Projects"
+weight = 2
+[[languages.en.menu.main]]
+Parent = "Projects"
 URL = "#"
 name = "Jordan Youth Orchestra"
-#weight = 1
-weight = 2
+weight = 1
+#weight = 2
 #[[languages.en.menu.main]]
 #URL = "project"
 #name = "Project"
