@@ -34,7 +34,7 @@ URL = "#"
 name = "عن الجمعية"
 weight = 1
 [[languages.ar.menu.main]]
-Parent = "About Us"
+Parent = "معلومات عنا"
 URL = "#"
 name = "المؤسسون"
 weight = 2
@@ -47,17 +47,17 @@ Parent = "المشاريع"
 URL = "#"
 name = "أوركسترا الأردن للشباب"
 weight = 1
-[[languages.ar.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[languages.ar.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
+#[[languages.ar.menu.main]]
+#URL = "project"
+#name = "Project"
+#weight = 3
+#[[languages.ar.menu.main]]
+#URL = "service"
+#name = "Service"
+#weight = 4
 [[languages.ar.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "المدونه"
 weight = 5
 #[[languages.ar.menu.main]]
 #hasChildren = true
