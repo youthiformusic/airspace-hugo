@@ -96,7 +96,7 @@ URL = "about"
 name = "About YMA"
 weight = 1
 [[languages.en.menu.main]]
-Parent = "About Us"
+#Parent = "About Us"
 URL = "about"
 name = "Founding Members"
 weight = 2
