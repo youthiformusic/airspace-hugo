@@ -12,12 +12,18 @@ about:
   enable: true
   title: About Us
   description: ''
-  content: Based in Jordan, Youth for Music Association was passionately established
-    as a go-to hub for budding youth musicians, to meet the need and demand for an
-    inclusive platform that’s dedicated to their development. As such, we’re committed
-    to encourage youth musicians’ continuity and growth on the long run through various
-    strategic projects, initiatives, and activities, in addition to collaborations
-    with other organizations and musicians within the region and beyond.
+  content: |-
+    لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور
+
+    أنكايديديونتيوت لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايم,كيواس نوستريد
+
+    أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس
+
+    أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت
+
+    نيولا باراياتيور. أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت ,سيونت ان كيولبا
+
+    كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم.
   image: images/ear.png
   button:
     label: Read More
