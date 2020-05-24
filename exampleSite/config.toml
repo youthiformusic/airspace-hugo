@@ -14,6 +14,61 @@ home = "الصفحة الرئيسية"
 languageCode = "ar-ar"
 languageName = "Arabic"
 weight = 2
+[[languages.ar.menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+weight = 2
+[[languages.ar.menu.main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+weight = 1
+[[languages.ar.menu.main]]
+hasChildren = true
+name = "معلومات عنا"
+weight = 1
+[[languages.ar.menu.main]]
+Parent = "معلومات عنا"
+URL = "#"
+name = "عن الجمعية"
+weight = 1
+[[languages.ar.menu.main]]
+Parent = "About Us"
+URL = "#"
+name = "المؤسسون"
+weight = 2
+[[languages.ar.menu.main]]
+hasChildren = true
+name = "Projects"
+weight = 2
+[[languages.ar.menu.main]]
+Parent = "المشاريع"
+URL = "#"
+name = "أوركسترا الأردن للشباب"
+weight = 1
+[[languages.ar.menu.main]]
+URL = "project"
+name = "Project"
+weight = 3
+[[languages.ar.menu.main]]
+URL = "service"
+name = "Service"
+weight = 4
+[[languages.ar.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 5
+[[languages.ar.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
+[[languages.ar.menu.main]]
+URL = "contact"
+name = "تواصلوا معنا"
+weight = 9
+
+
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
@@ -21,31 +76,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "English"
 weight = 1
-
-[[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [[languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
@@ -102,59 +132,30 @@ weight = 9
 
 
 
-[[languages.ar.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 2
-[[languages.ar.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+[[menu.footer]]
+URL = "about"
+name = "About"
 weight = 1
-[[languages.ar.menu.main]]
-hasChildren = true
-name = "معلومات عنا"
-weight = 1
-[[languages.ar.menu.main]]
-Parent = "معلومات عنا"
-URL = "#"
-name = "عن الجمعية"
-weight = 1
-[[languages.ar.menu.main]]
-Parent = "About Us"
-URL = "#"
-name = "المؤسسون"
-weight = 2
-[[languages.ar.menu.main]]
-hasChildren = true
-name = "Projects"
-weight = 2
-[[languages.ar.menu.main]]
-Parent = "المشاريع"
-URL = "#"
-name = "أوركسترا الأردن للشباب"
-weight = 1
-[[languages.ar.menu.main]]
+[[menu.footer]]
 URL = "project"
 name = "Project"
-weight = 3
-[[languages.ar.menu.main]]
+weight = 2
+[[menu.footer]]
 URL = "service"
 name = "Service"
+weight = 3
+[[menu.footer]]
+URL = "pricing"
+name = "Pricing"
 weight = 4
-[[languages.ar.menu.main]]
-URL = "blog"
-name = "Blog"
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
 weight = 5
-[[languages.ar.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[languages.ar.menu.main]]
+[[menu.footer]]
 URL = "contact"
-name = "تواصلوا معنا"
-weight = 9
+name = "Contact"
+weight = 6
 
 
 [params]
