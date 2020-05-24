@@ -30,7 +30,7 @@ name = "معلومات عنا"
 weight = 1
 [[languages.ar.menu.main]]
 Parent = "معلومات عنا"
-URL = "#"
+URL = "about"
 name = "عن الجمعية"
 weight = 1
 [[languages.ar.menu.main]]
@@ -92,12 +92,12 @@ weight = 0
 #weight = 1
 [[languages.en.menu.main]]
 Parent = "About Us"
-URL = "#"
+URL = "about"
 name = "About YMA"
 weight = 1
 [[languages.en.menu.main]]
 Parent = "About Us"
-URL = "#"
+URL = "about"
 name = "Founding Members"
 weight = 2
 [[languages.en.menu.main]]
