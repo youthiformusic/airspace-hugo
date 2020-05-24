@@ -86,10 +86,10 @@ weight = 0
 #name = "Pricing"
 #parent = "Pages"
 #weight = 1
-#[[languages.en.menu.main]]
-#hasChildren = true
-#name = "About Us"
-#weight = 1
+[[languages.en.menu.main]]
+hasChildren = true
+name = "About Us"
+weight = 1
 [[languages.en.menu.main]]
 Parent = "About Us"
 URL = "about"
