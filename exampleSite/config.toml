@@ -124,7 +124,7 @@ weight = 2
 #weight = 4
 [[languages.en.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Newsroom"
 weight = 5
 #[[languages.en.menu.main]]
 #hasChildren = true
