@@ -61,7 +61,11 @@ name = "Pricing"
 parent = "Pages"
 weight = 1
 [[menu.main]]
-Parent = "About US"
+hasChildren = True
+name = About Us
+weight = 1
+[[menu.main]]
+Parent = "About Us"
 URL = "about"
 name = "About YMA"
 weight = 1
