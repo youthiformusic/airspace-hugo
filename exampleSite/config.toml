@@ -120,37 +120,37 @@ Parent = "معلومات عنا"
 URL = "#"
 name = "عن الجمعية"
 weight = 1
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 Parent = "About Us"
 URL = "#"
 name = "المؤسسون"
 weight = 2
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 hasChildren = true
 name = "Projects"
 weight = 2
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 Parent = "المشاريع"
 URL = "#"
 name = "أوركسترا الأردن للشباب"
 weight = 1
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 URL = "project"
 name = "Project"
 weight = 3
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 URL = "service"
 name = "Service"
 weight = 4
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 6
-[[languages.en.menu.main]]
+[[languages.ar.menu.main]]
 URL = "contact"
 name = "تواصلوا معنا"
 weight = 9
