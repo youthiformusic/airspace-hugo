@@ -1,3 +1,4 @@
+defaultContentLanguage = "en"
 baseURL = "https://unruffled-clarke-8c8bfd.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
