@@ -6,12 +6,19 @@ summaryLength = "30"
 theme = "airspace-hugo"
 title = "Youth For Music Association"
 [Languages.ar]
+languagedirection = "rtl"
 contentDir = "content/arabic"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
 home = "الصفحة الرئيسية"
 languageCode = "ar-ar"
 languageName = "Arabic"
 weight = 2
+  [languages.ar.params]
+  about = "عن الجمعية"
+  projects = "المشاريع"
+  youth_orchestra = "أوركسترا الأردن للشباب"
+  founders = "المؤسسون"
+  contact = "تواصلوا معنا"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
@@ -66,7 +73,7 @@ name = "About Us"
 weight = 1
 [[menu.main]]
 Parent = "About Us"
-URL = "about"
+URL = about
 name = "About YMA"
 weight = 1
 [[menu.main]]
@@ -76,12 +83,12 @@ name = "Founding Members"
 weight = 2
 [[menu.main]]
 hasChildren = true
-name = "Projects"
+name = projects
 weight = 2
 [[menu.main]]
 Parent = "Projects"
 URL = "#"
-name = "Jordan Youth \n Orchestra"
+name = youth_orchestra
 weight = 1
 [[menu.main]]
 URL = "project"
@@ -101,7 +108,7 @@ name = "Pages"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = contact
 weight = 9
 [params]
 author = ""
@@ -119,6 +126,13 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYS
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
+
+[params.navigation]
+  about = "About Us"
+  projects = "Projects"
+  youth_orchestra = "Jordan Youth Orchestra"
+  founders = "Founding Members"
+  contact = "Contact Us"
 [params.nav_button]
 enable = false
 label = "Get A Quote"
