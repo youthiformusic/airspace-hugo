@@ -107,9 +107,13 @@ weight = 2
 [[languages.en.menu.main]]
 Parent = "Projects"
 URL = "#"
-name = "Jordan Youth Orchestra"
+name = "Overview"
 weight = 1
-#weight = 2
+[[languages.en.menu.main]]
+Parent = "Projects"
+URL = "#"
+name = "Jordan Youth Orchestra"
+weight = 2
 #[[languages.en.menu.main]]
 #URL = "project"
 #name = "Project"
