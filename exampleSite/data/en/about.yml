@@ -63,7 +63,7 @@ features:
 testimonial:
   enable: false
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: To be a pillar in the cultural and musical development of youth musicians
