@@ -62,7 +62,7 @@ parent = "Pages"
 weight = 1
 [[menu.main]]
 hasChildren = True
-name = About Us
+name = "About Us"
 weight = 1
 [[menu.main]]
 Parent = "About Us"
