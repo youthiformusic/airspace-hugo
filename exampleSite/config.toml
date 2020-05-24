@@ -70,6 +70,20 @@ URL = "about"
 name = "About YMA"
 weight = 1
 [[menu.main]]
+URL = "#"
+name = "Founding Members"
+weight = 2
+Parent = "About Us"
+[[menu.main]]
+name = "Projects"
+hasChildren = true
+weight = 2
+[[menu.main]]
+URL = "#"
+name = "Jordan Youth Orchestra"
+Parent = "Projects"
+weight = 1
+[[menu.main]]
 URL = "project"
 name = "Project"
 weight = 3
