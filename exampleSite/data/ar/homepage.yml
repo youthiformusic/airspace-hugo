@@ -1,0 +1,68 @@
+---
+banner:
+  enable: true
+  bg_image: images/cello-orchester.jpg
+  title: Youth for Music Association
+  content: Some text here.
+  button:
+    enable: false
+    label: Discover Our Project
+    link: project
+about:
+  enable: true
+  title: About Us
+  description: ''
+  content: Based in Jordan, Youth for Music Association was passionately established
+    as a go-to hub for budding youth musicians, to meet the need and demand for an
+    inclusive platform that’s dedicated to their development. As such, we’re committed
+    to encourage youth musicians’ continuity and growth on the long run through various
+    strategic projects, initiatives, and activities, in addition to collaborations
+    with other organizations and musicians within the region and beyond.
+  image: images/ear.png
+  button:
+    label: Read More
+    enable: true
+    link: "#"
+portfolio:
+  enable: true
+  bg_image: images/whatsapp-image-2020-05-24-at-01-06-46.jpeg
+  title: Our Projects
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauris
+    viverra, venenatis nulla vel, venenatis justo. Praesent auctor erat et consectetur
+    tempus. In eget interdum lorem, ac maximus eros. Donec placerat tincidunt rutrum.
+    In id tortor ac augue porttitor dapibus nec id velit. Etiam sit amet molestie
+    nulla, eu euismod mauris. Nunc et ipsum nec sapien varius sollicitudin sed id
+    lorem. Integer id libero commodo turpis tempor ullamcorper iaculis eget dui. Sed
+    a ligula vel ipsum iaculis laoreet id sed odio. Nam purus orci, vestibulum eu
+    interdum quis, vulputate sit amet neque. Nullam pretium mi dui, eget ultrices
+    mi dapibus a. Praesent eleifend turpis vel elit laoreet, ut ornare magna cursus.
+    Pellentesque semper, nibh sodales pulvinar eleifend, ex erat tincidunt lacus,
+    ut accumsan tortor ante nec diam. Suspendisse tincidunt sapien nec interdum interdum.
+    Etiam a diam libero. Nullam non felis eget mi finibus eleifend.<br/>
+
+'
+  button:
+    enable: true
+    label: View our projects
+    link: project
+service:
+  enable: false
+cta:
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: We design delightful digital experiences.
+  content: Read more about what we do and our philosophy of design. Judge for yourself
+    The work and results <br> we’ve achieved for other clients, and meet our highly
+    experienced Team who just love to design.
+  button:
+    enable: true
+    label: Tell Us Your Story
+    link: contact
+funfacts:
+  enable: false
+  title: Fun Facts About Us
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia
+    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
+    right at the coast of the Semantics'"
+  funfact_item: []
+  testimonial_slider: []
