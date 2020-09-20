@@ -4,8 +4,8 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+{{ if $data.mission.about.enable }}
+{{ with $data.mission.about }}
 <section class="about section">
   <div class="container">
     <div class="row">
@@ -40,8 +40,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.about.features.enable }}
-{{ with $data.about.features }}
+{{ if $data.mission.features.enable }}
+{{ with $data.mission.features }}
 <section class="about-feature bg-dark section dark-service">
   <div class="container">
     {{ with .title }}
@@ -72,7 +72,7 @@
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
-      {{ if $data.about.testimonial.enable }}
+      {{ if $data.mission.testimonial.enable }}
       <div class="col-md-6">
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
@@ -91,8 +91,8 @@
       </div>
       {{ end }}
 
-      {{ if $data.about.mission_vision.enable }}
-      {{ with $data.about.mission_vision }}
+      {{ if $data.mission.mission_vision.enable }}
+      {{ with $data.mission.mission_vision }}
       <div class="col-md-6">
         <div class="tabCommon">
           <ul class="nav nav-tabs">
@@ -117,7 +117,7 @@
 </section>
 
 <!-- Call to action -->
-{{ if $data.about.cta.enable }}
+{{ if $data.mission.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
