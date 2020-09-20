@@ -1,1 +1,34 @@
+---
+member1:
+  enable: true
+  image: images/yma-orchestra.jpg
+  title: Mission & Vision
+  content: |-
+    ### Our Mission
+    To build a strong reliable platform that enhances the potential of local and regional youth musicians through a series of musical development projects, investing in quality training, and collaborating with world-class music institutions.
 
+    ### Our Vision
+
+    To be a pillar in the cultural and musical development of youth musicians in Jordan and the Arab world.
+  button:
+    enable: false
+    label: Download Company Profile
+    link: "#"
+  funfacts: []
+
+member2:
+  enable: true
+  image: images/yma-orchestra.jpg
+  title: Mission & Vision
+  content: |-
+    ### Our Mission
+    To build a strong reliable platform that enhances the potential of local and regional youth musicians through a series of musical development projects, investing in quality training, and collaborating with world-class music institutions.
+
+    ### Our Vision
+
+    To be a pillar in the cultural and musical development of youth musicians in Jordan and the Arab world.
+  button:
+    enable: false
+    label: Download Company Profile
+    link: "#"
+  funfacts: []
