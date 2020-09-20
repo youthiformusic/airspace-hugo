@@ -15,7 +15,6 @@ member1:
     label: Download Company Profile
     link: "#"
   funfacts: []
-
 member2:
   enable: true
   image: images/yma-orchestra.jpg
