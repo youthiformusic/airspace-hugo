@@ -55,7 +55,7 @@
         @include transition (all, 0.3s, ease);
 
         &:hover {
-          background: $primary-color;
+          background: #0b3c4a;
           color: $light;
           padding-left: 25px;
         }
