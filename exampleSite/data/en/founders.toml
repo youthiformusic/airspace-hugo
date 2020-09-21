@@ -1,6 +1,6 @@
 [about]
 content = "123"
-enable = true
+enable = false
 funfacts = []
 image = "images/yma-orchestra.jpg"
 title = "test"
