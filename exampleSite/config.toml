@@ -72,7 +72,7 @@ URL = "mission"
 name = "Mission & Vision"
 weight = 3
 [[languages.en.menu.main]]
-URL = "about"
+URL = "founders"
 name = "Founding Members"
 weight = 2
 [[languages.en.menu.main]]
