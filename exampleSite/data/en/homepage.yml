@@ -3,13 +3,14 @@ banner:
   enable: true
   bg_image: images/cello-orchester.jpg
   title: Youth for Music Association
-  content: "A Hub for Nurturing Next Generation Musicians. \n Based in Jordan with Global Outlooks"
+  content: "A Hub for Nurturing Next Generation Musicians. \n Based in Jordan with
+    Global Outlooks"
   button:
     enable: false
     label: Discover Our Project
     link: project
 about:
-  enable: true
+  enable: false
   title: About Us
   description: ''
   content: Based in Jordan, Youth for Music Association was passionately established
@@ -24,7 +25,7 @@ about:
     enable: true
     link: "#"
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/yma-orchestra.jpg
   title: Our Projects
   content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et mauris
