@@ -19,7 +19,7 @@ about:
     with other organizations and musicians within the region and beyond.
   image: images/ear.png
   button:
-    label: Read More
+    label: ''
     enable: true
     link: "#"
 portfolio:
@@ -47,7 +47,7 @@ portfolio:
 service:
   enable: false
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
