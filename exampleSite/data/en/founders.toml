@@ -20,6 +20,31 @@ tabs = []
 [testimonial]
 enable = false
 [[member]]
+content = "A few years ago, Mirna decided to channel her life-long experience in marketing, branding and PR into promoting local music efforts, based on passionate and strong-willed faith in the proven potential of Jordanian musicians. She established Abrez Music as a music marketing start-up, and uses its social media platforms for highlights of the local music scene. \n\n_“It’s a privilege to be onboard the Youth for Music Association - a hardworking group of young music professionals, with a solid vision of improving the ecosystem for youth musicians in Jordan and the region.” _"
+enable = true
+image = "/images/mirna_k.jpeg"
+title = "Mirna Khalfawi"
+[[member]]
+content = "Evate obtained her DipABRSM degree in Violin Performance from the Associated Board Royal School of Music in 2017. She played with various orchestras, including the National Jordanian Orchestra Association, Palestine Youth Orchestra, Arab Youth Philharmonic Orchestra, and Joung Ensemble Berlin Sinfonieorcherter. Evate is also the co-founder of Nai Choir, and is currently a member of the Etihad Chamber Orchestra. Apart from music, Evate is a nutritionist that holds a Master’s degree in Clinical and Public Health Nutrition from University College London."
+enable = true
+image = "/images/evate.jpg"
+title = "Evate Fashho"
+[[member]]
+content = "Dolly started playing the piano and then the flute as a child, and has adopted a life in music ever since, partaking in orchestras, choirs and bands all over Europe and The United States. Her passion for all forms of art led her to a career in the production field as a Digital Media Content Creator and Producer. \n\n_“Growing up, the music community always played a huge positive role in my life, and shaped me into the person I am today. This is why I wanted to create the same opportunity for the youth of this generation.”_\n"
+enable = true
+image = "/images/dolly.jpg"
+title = "Dolly Deeb"
+[[member]]
+content = "Hrag Mouradian is an Armenian-Jordanian Duduk player, performing and recording artist with regional attendance across the Middle East and North Africa. He travelled to Yerevan in 2015 for authentic training with duduk masters Gevorg Dabaghyan and Narek Mnatsakanyan, where he closely studied the music and roots of the national Armenian instrument. As one of the few Duduk musicians in the Middle East (and the first in Jordan) to share his music on stage with fellow artists, Hrag is devoted to introducing the cultural identity of the duduk, and exploring its beauty in diverse music projects."
+enable = true
+image = "/images/hrag.jpg"
+title = "Hrag Mouradian"
+[[member]]
+content = "A student of Management Sciences at GJU, Mirna’s music journey started with the National Music Conservatory as a child, and she’s been playing the clarinet and progressing with Dr. Hisham Sharaf ever since. She has made multiple contributions to music projects in the Kingdom and abroad, leading up to Youth for Music Association, where she believes in the importance of providing an inspiring, supportive platform for youth musicians. "
+enable = true
+image = "/images/mirna_a.jpg"
+title = "Mirna Abdulla"
+[[member]]
 content = "Majd is a musician and an Industrial Engineer who works in Project Management - a career which largely enriches her role in the Association. Majd had obtained her LRSM degree in piano performance in 2014, plus the DipABRSM in clarinet performances in 2019. She has taught piano, clarinet, and music theory in multiple institutions (including the University of Jordan), in addition to involvement in master classes with international artists and ensembles. She has participated in many choirs, orchestras and various groups; she’s a clarinetist with Abnus Woodwind Quartet, a member of the Amman Community Band, and was the Team Leader of the Jordanian team in Ethno Cyprus 2016 and 2018.\n\n_“Being part of Youth for Music Association means providing a platform and a medium for different musicians in Jordan and across the region to hone their skills and channel their talents with proper support and guidance.”_\n"
 enable = true
 image = "/images/majd.jpg"
