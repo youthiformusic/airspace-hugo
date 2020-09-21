@@ -19,3 +19,8 @@ enable = false
 tabs = []
 [testimonial]
 enable = false
+[[member]]
+content = "hello my name is ihssan"
+enable = true
+image = "/images/ihssan.jpg"
+title = "Ihssan"
