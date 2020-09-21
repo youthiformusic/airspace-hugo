@@ -20,6 +20,11 @@ tabs = []
 [testimonial]
 enable = false
 [[member]]
+content = "Majd is a musician and an Industrial Engineer who works in Project Management - a career which largely enriches her role in the Association. Majd had obtained her LRSM degree in piano performance in 2014, plus the DipABRSM in clarinet performances in 2019. She has taught piano, clarinet, and music theory in multiple institutions (including the University of Jordan), in addition to involvement in master classes with international artists and ensembles. She has participated in many choirs, orchestras and various groups; she’s a clarinetist with Abnus Woodwind Quartet, a member of the Amman Community Band, and was the Team Leader of the Jordanian team in Ethno Cyprus 2016 and 2018.\n_“Being part of Youth for Music Association means providing a platform and a medium for different musicians in Jordan and across the region to hone their skills and channel their talents with proper support and guidance.”_\n"
+enable = true
+image = "/images/majd.jpg"
+title = "Majd Khnouf"
+[[member]]
 content = "A Bassoon player who is dedicated to the Youth for Music Association full time. He strongly believes in the importance of continuously honing music skills via professionals, and wishes to encourage the same for young musicians across the region. Ihsaan had received a Bachelor in Computer and Networks Engineering from Balqa' Applied University (2020); musically, his education included online studies with Michael Garza and Giovanni Geletti. He has performed in various orchestras around the world, including Lebanon, Norway, Spain, UAE, and Jordan, and he was also a member of the former Jordanian National Orchestra. \n"
 enable = true
 image = "/images/ihssan.jpg"
