@@ -88,3 +88,5 @@ fields:
   - type: boolean
     name: enable
     label: enable
+pages:
+- exampleSite/data/en/founders.html
