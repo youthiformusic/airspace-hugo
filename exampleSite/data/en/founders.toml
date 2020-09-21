@@ -1,9 +1,9 @@
 [about]
-content = ""
-enable = false
+content = "123"
+enable = true
 funfacts = []
-image = ""
-title = ""
+image = "images/yma-orchestra.jpg"
+title = "test"
 [about.button]
 enable = false
 label = ""
