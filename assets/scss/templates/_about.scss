@@ -10,7 +10,7 @@
 			line-height:28px;
 		}
 		img{
-			width: 80%;
+			width: 100%;
 		}
 	}
 	.about-img {
@@ -21,6 +21,7 @@
 		img {
 //			opacity: .6;
 			@include transition (all, 0.5s, ease-out);
+			width: 80%;
 		}
 	}
 	.section-title {
