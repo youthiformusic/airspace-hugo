@@ -129,7 +129,7 @@ email = "contactus@youthformusic.com"
 google_analitycs_id = ""
 location = ""
 logo = "images/youth-music-association-logo_2.png"
-mobile = "00962 7 7014 3406"
+mobile = "test"
 multi_author = false
 [params.gmap]
 enable = false
