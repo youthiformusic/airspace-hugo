@@ -1,5 +1,4 @@
 +++
-draft = true
 [about]
 content = "test123"
 enable = true
