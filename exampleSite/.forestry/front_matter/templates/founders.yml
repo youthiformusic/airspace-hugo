@@ -1,0 +1,90 @@
+---
+label: founders
+hide_body: true
+fields:
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+  - type: list
+    name: funfacts
+    label: funfacts
+- type: field_group
+  name: features
+  label: features
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: feature_item
+    label: feature_item
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: mission_vision
+  label: mission_vision
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: tabs
+    label: tabs
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: cta
+  label: cta
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
