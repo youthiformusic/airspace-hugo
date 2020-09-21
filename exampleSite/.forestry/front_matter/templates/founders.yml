@@ -120,5 +120,3 @@ fields:
     label: enable
 pages:
 - exampleSite/data/en/founders.toml
-- exampleSite/data/en/orchestra.html
-- exampleSite/data/en/webinars.html
