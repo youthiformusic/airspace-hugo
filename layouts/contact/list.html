@@ -38,7 +38,7 @@
             <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: {{ .Site.Params.email }}</li>
             <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ .Site.Params.mobile }}</li>
           </ul>
-          <ul class="iconify">
+          <ul class="social-icons">
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
