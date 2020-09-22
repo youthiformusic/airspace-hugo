@@ -6,8 +6,6 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "Youth For Music Association"
-[markup.goldmark.renderer]
-unsafe=true
 [languages.ar]
 contentDir = "content/arabic"
 copyright = "Copyright &copy; 2020 All Rights Reserved"
@@ -91,14 +89,12 @@ Parent = "Projects"
 URL = "webinars"
 name = "Webinars"
 weight = 2
-#[[languages.en.menu.main]]
-#URL = "blog"
-#name = "Newsroom"
-#weight = 5
 [[languages.en.menu.main]]
 URL = "contact"
 name = "Contact Us"
 weight = 9
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.footer]]
 URL = "about"
 name = "About"
@@ -157,6 +153,8 @@ link = "plugins/Ionicons/css/ionicons.min.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "https://code.iconify.design/1/1.0.7/iconify.min.js"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
