@@ -173,6 +173,9 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "iconify\" data-icon=\"logos:twitter"
+link = ""
+[[params.social]]
 icon = "logos:facebook"
 link = "https://www.facebook.com/Youthformusic/"
 [[params.social]]
