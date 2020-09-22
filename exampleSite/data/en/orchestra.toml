@@ -1,6 +1,6 @@
 member = []
 [about]
-content = "Jordan Youth Orchestra was independently established in February 2020, as part of our committed goals to enhance the academic skills of youth musicians. Coached by professional music educators, the Orchestra currently comprises sixty youth musicians, with regular rehearsals geared towards bi-annual concerts, along with various other events. \n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EMx20KpJqQw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+content = "Jordan Youth Orchestra was independently established in February 2020, as part of our committed goals to enhance the academic skills of youth musicians. Coached by professional music educators, the Orchestra currently comprises sixty youth musicians, with regular rehearsals geared towards bi-annual concerts, along with various other events. \n\n<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EMx20KpJqQw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 enable = true
 funfacts = []
 image = "/images/yma-orchestra.jpg"
