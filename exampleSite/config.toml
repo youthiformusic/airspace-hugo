@@ -176,8 +176,8 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "ion-social-facebook"
 link = "https://www.facebook.com/Youthformusic/"
 [[params.social]]
-icon = "ion-social-instagram"
+icon = "ion-social-instagram-outline"
 link = "https://instagram.com/youthformusic"
 [[params.social]]
-icon = "ion-ios-email"
+icon = "ion-ios-email-outline"
 link = "mailto:contactus@youthformusic.com"
