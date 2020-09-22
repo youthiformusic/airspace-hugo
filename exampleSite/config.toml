@@ -173,11 +173,11 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "logos:facebook"
+icon = "ion-social-facebook"
 link = "https://www.facebook.com/Youthformusic/"
 [[params.social]]
-icon = "ion-social-instagram-outline"
+icon = "ion-social-instagram"
 link = "https://instagram.com/youthformusic"
 [[params.social]]
-icon = "ion-ios-email-outline"
+icon = "ion-ios-email"
 link = "mailto:contactus@youthformusic.com"
